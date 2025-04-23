@@ -1,0 +1,15 @@
+{
+  "name": "tugas-project-backend-dci",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "tugas project backend Pelatihan dci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Octavyanto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
